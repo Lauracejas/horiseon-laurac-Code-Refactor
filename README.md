@@ -11,7 +11,7 @@ This is the README.md for the Horiseon Seo Accesibility Proyect
 
  - [Link to Github Profile](https://github.com/Lauracejas)
 
- - [Link to deployed website](git@github.com:Lauracejas/horiseon-laurac-ass1.git)
+ - [Link to deployed website](https://github.com/Lauracejas/horiseon-laurac-ass1)
 
 ## Screenshot of Website
 
